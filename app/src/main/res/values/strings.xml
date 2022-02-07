@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeusContatos</string>
+    <string name="menu">Opção de menu</string>
+
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+</resources>
